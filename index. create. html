@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<style>
+
+p
+
+{
+
+font-style:italic;
+
+color:white;
+
+background-color:green;
+
+text-align:center;
+
+}
+
+h1
+
+{
+
+background-color:orange ;
+
+}
+
+body
+
+{
+
+background-color:pink;
+
+font-face: "Arial";
+
+font-size:18px;
+
+color:red;
+
+}
+
+</style>
+
+<body>
+
+<center>
+
+<h1>My Favourite Animal</h1>
+
+<img src="tiger.jpg" width="200" height=”200”>
+
+<p> The tiger is Largest Cat .<br>
+
+Tiger is our National Animal.<br>
+
+Tiger eat other animals like deer. </p>
+
+<ol type="1">
+
+<li>Lifespan: 10 – 15 years </li>
+
+<li>Speed: 49 – 65 km/h</li>
+
+<li>Height: 70 – 120 cm </li>
+
+<li>weight: 90 – 310 kg (Adult)</li>
+<li>Diet: Carnivore</li>
+
+</ol>
+
+</center>
+
+</body>
+
+</html>
